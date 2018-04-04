@@ -3,16 +3,19 @@
 One Paragraph of project description goes here
 
 ## Contents
-[About](#about)
+* [About](#about)
 
-[Getting Started](#getting-started)
+* [Getting Started](#getting-started)
 
-[Prerequisites](#prerequisites)
+	* [Prerequisites](#prerequisites)
 
-[Installing](#installing)
+	* [Installing](#installing)
 	
 
-## <a name="about">About
+## About
+What about a relative link to a file in another directory:
+
+[content-and-experience-reference-apps](/content-and-experience-reference-apps)
 
 
 
@@ -28,7 +31,7 @@ What things you need to install the software and how to install them
 Give examples
 ```
 
-### <a name="installing">Installing
+### Installing
 
 A step by step series of examples that tell you have to get a development env running
 
