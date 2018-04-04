@@ -3,11 +3,11 @@
 One Paragraph of project description goes here
 
 ## Contents
-[About] (#about)
+[About](#about)
 
-[Getting Started] (#getting-started)
+[Getting Started](#getting-started)
 
-[Prerequisites] (#prerequisites)
+[Prerequisites](#prerequisites)
 
 [Installing](#installing)
 	
