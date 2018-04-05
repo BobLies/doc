@@ -2,7 +2,7 @@
 
 Templates and resources for development platforms.
 
-# Contents
+
 | Folder  | Description |
 | ------------- | ------------- |
 |  [Root](/../../) | Link to root folder|
