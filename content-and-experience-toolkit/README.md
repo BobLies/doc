@@ -1,14 +1,12 @@
-# Repository/Project Title
+# Oracle Content and Experience Toolkit
 
-One Paragraph of project description goes here
+Templates and resources for development platforms.
 
 # Contents
 | Folder  | Description |
 | ------------- | ------------- |
 |  [Root](/../../) | Link to root folder|
-|  [Link Text](Relative Link) | Description |
-|  [Link Text](Relative Link) | Description |
-|  [Link Text](Relative Link) | Description |
+|  [Sites](/Sites) | Work with project templates in Developer Cloud Service to create, test, and deploy your own site templates, themes, and components.|
 
 
 
