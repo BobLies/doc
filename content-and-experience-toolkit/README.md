@@ -5,7 +5,7 @@ One Paragraph of project description goes here
 # Contents
 | Folder  | Description |
 | ------------- | ------------- |
-|  [Parent](./) | Link to parent folder|
+|  [Root](/../../) | Link to root folder|
 |  [Link Text](Relative Link) | Description |
 |  [Link Text](Relative Link) | Description |
 |  [Link Text](Relative Link) | Description |
