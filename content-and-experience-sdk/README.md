@@ -6,10 +6,10 @@ Work with  development kits for iOS, Android, or browsers to access the features
 | Folder  | Description |
 | ------------- | ------------- |
 |  [Root](/../../) | Link to root folder.|
-|  [Android](android/) | SDK resources for Android. |
-|  [Browsers](browser/) | SDK resources for standard browsers. |
-|  [iOS](ios/) | SDK resources for iOS. |
-|  [Node.JS](nodejs/) | Node.JS resources for Oracle Content and Experience. |
+|  [android](android/) | SDK resources for Android. |
+|  [browser](browser/) | SDK resources for standard browsers. |
+|  [ios](ios/) | SDK resources for iOS. |
+|  [nodejs](nodejs/) | Node.JS resources for Oracle Content and Experience. |
 
 
 
