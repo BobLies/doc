@@ -7,7 +7,7 @@ Work with  development kits for iOS, Android, or browsers to access the features
 | ------------- | ------------- |
 |  [Root](/../../) | Link to root folder.|
 |  [android](android/) | SDK resources for Android. |
-|  [browser](browser/) | SDK resources for standard browsers. |
+|  [browser](browser/) | SDK resources for standard web browsers. |
 |  [ios](ios/) | SDK resources for iOS. |
 |  [nodejs](nodejs/) | Node.JS resources for Oracle Content and Experience. |
 
